@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # 👋 Hello, I'm Jayraj Pamnani
-
-<div align="center">
-  <img src="https://jayrajpamnani.github.io/assets/jayraj-profile.jpg" alt="Jayraj Pamnani" width="200" style="border-radius: 50%;">
-</div>
 
 ## 🚀 **AI/ML Engineer & Data Scientist**
 
@@ -13,20 +8,7 @@
 
 ## 🎯 **About Me**
 
-I'm a **Computer Engineering graduate student at NYU** with a passion for pushing the boundaries of AI and Machine Learning. With extensive experience in developing production-ready AI systems, I specialize in:
-
-- **Large Language Models (LLMs)** & **Retrieval-Augmented Generation (RAG)**
-- **Speech Processing** (TTS/STT) & **Computer Vision**
-- **Big Data Analytics** & **Machine Learning Engineering**
-- **Full-Stack Development** & **Cloud Architecture**
-
-### 🏆 **Key Achievements**
-- **Microsoft & Google Certified** professional
-- Listed in **Google Developers Certification Alumni Directory**
-- **4+ years** of hands-on experience in AI/ML development
-- **Multiple internships** at leading AI companies
-- **Master's degree** in Computer Engineering (Expected 2026)
-
+I'm a **Computer Engineering graduate student at NYU** with a passion for pushing the boundaries of AI and Machine Learning.
 ---
 
 ## 🛠️ **Technical Expertise**
@@ -61,32 +43,6 @@ I'm a **Computer Engineering graduate student at NYU** with a passion for pushin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
----
-
-## 🏢 **Professional Experience**
-
-### 🤖 **AI Intern** - Swaroop.ai *(Mar 2024 - Aug 2024)*
-- **Developed production-ready TTS/STT models** using Coqui TTS/STT supporting 1,100+ languages
-- **Implemented OpenAI Whisper** for noise-resilient multilingual speech translation
-- **End-to-end model development** from data preprocessing to production deployment
-
-### 📊 **Data Scientist Intern** - Robotskull *(Oct 2023 - Mar 2024)*
-- **Built ML models** for demand forecasting and inventory optimization
-- **Data pipeline development** processing vendor/product sales data
-- **Created interactive dashboards** for procurement team decision-making
-
-### 💻 **Freelance Software Developer** *(Jul 2023 - Sept 2023)*
-- **Developed custom web applications** for international clients
-- **PDF data extraction automation** with Flask backend
-- **AWS deployment** and API integration with enterprise systems
-
----
-
-## 🎓 **Education**
-
-- **Master's in Computer Engineering** - New York University *(Expected May 2026)*
-- **Bachelor's in Computer Science & Engineering (AI Specialization)** - Parul University *(May 2024)*
 
 ---
 
@@ -154,27 +110,6 @@ I'm a **Computer Engineering graduate student at NYU** with a passion for pushin
 
 ---
 
-## 🏅 **Certifications**
-
-- **Deep Learning Specialization** - Andrew Ng (Coursera)
-- **Google Data Analytics Professional Certificate** - Google
-- **Microsoft Azure AI Fundamentals** - Microsoft
-- **Microsoft Azure Data Fundamentals** - Microsoft
-- **Microsoft Security, Compliance, and Identity Fundamentals** - Microsoft
-- **Microsoft Power Platform Fundamentals** - Microsoft
-
----
-
-## 🌟 **What Sets Me Apart**
-
-- **🔬 Research-Driven:** Published work on synthetic data generation using GANs
-- **🚀 Production-Focused:** Experience deploying AI models in real-world environments
-- **🔄 Continuous Learning:** Always exploring cutting-edge AI technologies
-- **🎯 Problem-Solver:** Strong analytical skills with attention to detail
-- **🤝 Collaborative:** Experience mentoring and teaching others
-
----
-
 ## 📫 **Let's Connect**
 
 <div align="center">
@@ -195,22 +130,4 @@ I'm a **Computer Engineering graduate student at NYU** with a passion for pushin
   <img src="https://komarev.com/ghpvc/?username=jayrajpamnani&style=flat-square&color=blue" alt="Profile Views" />
   
   *"The eagle's journey of self-reinvention inspires my approach to technology - always evolving, always growing stronger."*
-</div> 
-=======
-## Hi there 👋
-
-<!--
-**jayrajpamnani/jayrajpamnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 81c8e5126aa42a954f0b5f54c1aefb9fca9daf34
+</div>
