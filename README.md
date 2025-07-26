@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 Hello, I'm Jayraj Pamnani
 
 <div align="center">
@@ -195,3 +196,21 @@ I'm a **Computer Engineering graduate student at NYU** with a passion for pushin
   
   *"The eagle's journey of self-reinvention inspires my approach to technology - always evolving, always growing stronger."*
 </div> 
+=======
+## Hi there 👋
+
+<!--
+**jayrajpamnani/jayrajpamnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 81c8e5126aa42a954f0b5f54c1aefb9fca9daf34
