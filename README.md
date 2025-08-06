@@ -103,10 +103,13 @@ I'm a **Computer Engineering graduate student at NYU** with a passion for pushin
 
 ## 📈 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayrajpamnani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=jayrajpamnani&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayrajpamnani&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jayrajpamnani&theme=radical)
+
+</p>
 
 ---
 
